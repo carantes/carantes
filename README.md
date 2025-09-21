@@ -1,0 +1,39 @@
+# Carlos Arantes - Code, Curiosity & Craft 🛠️
+
+🚀 **Seasoned Software Engineer** | **Backend, Frontend & Mobile**  
+📌 **Technologies:** Go, Python, TypeScript, React, React Native, iOS  
+🌍 From **Brazil**, based in **Sweden**
+
+I’m a hands-on engineer who loves to learn, experiment, and ship. On my day to day, I lead teams and help scale products used by millions. In my spare time, you’ll always find me tinkering, coding, or exploring new languages or frameworks. For me, engineering is the perfect mix of craft, curiosity, and constant growth.
+
+<!-- --- -->
+
+<!-- ## 📂 **Open Source & Contributions** -->
+
+<!-- WIP -->
+<!-- ### [Project X](https://github.com/carantes/projectx)
+A CLI debugger for PHP that allows developers to debug PHP applications in an interactive manner. -->
+
+<!-- --- -->
+
+## 💼 **Experience**
+- **Epidemic Sound:** — Engineering Manager, Growth (Current) — Leading Payments & Subscriptions, scaling teams, and driving key growth initiatives like AI Voices, new payment methods, and multi-currency support.
+
+- **Klarna:** — Senior Software Engineer & Team Lead (2020–2024) — Led multiple teams, scaled new engineering squads, optimized Klarna app performance, and re-architected monorepo workflows.
+
+- **Flieber:** — Head of Software Engineering (2019–2020) — Built the engineering org from zero and launched a B2B SaaS platform for marketplace sellers.
+
+- **OLX Brasil:** — Software Engineering Manager (2018–2019, Rio de Janeiro) — Managed fullstack teams, led migration to microservices, and rebuilt the native app with React Native.
+
+---
+
+## 📈 **GitHub Stats**
+[![Carlos Arantes GitHub stats](https://github-readme-stats.vercel.app/api?username=carantes&show_icons=true&theme=merko)](https://github.com/carantes)
+
+---
+
+## 📫 **Contact**
+- **LinkedIn:** [carantes](https://www.linkedin.com/in/carantes)
+- **GitHub:** [carantes](https://github.com/carantes)
+- **Email:** [carantes.ferreira@gmail.com](carantes.ferreira@gmail.com)
+- **Blog:** [carantes.dev](https://carantes.hashnode.dev/)

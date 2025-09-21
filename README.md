@@ -1,4 +1,4 @@
-# Carlos Arantes - Code, Curiosity & Craft 🛠️
+# Carlos Arantes - 💻 Always Coding, 📚 Always Learning
 
 🚀 **Seasoned Software Engineer** | **Backend, Frontend & Mobile**  
 📌 **Technologies:** Go, Python, TypeScript, React, React Native, iOS  

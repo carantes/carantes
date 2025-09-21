@@ -35,5 +35,5 @@ A CLI debugger for PHP that allows developers to debug PHP applications in an in
 ## 📫 **Contact**
 - **LinkedIn:** [carantes](https://www.linkedin.com/in/carantes)
 - **GitHub:** [carantes](https://github.com/carantes)
-- **Email:** [carantes.ferreira@gmail.com](carantes.ferreira@gmail.com)
+- **Email:** carantes.ferreira@gmail.com
 - **Blog:** [carantes.dev](https://carantes.hashnode.dev/)

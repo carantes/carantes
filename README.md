@@ -19,7 +19,7 @@ A CLI debugger for PHP that allows developers to debug PHP applications in an in
 ## 💼 **Experience**
 - [Epidemic Sound](http://epidemicsound.com/): — Engineering Manager, Growth (Current) — Leading Payments & Subscriptions, scaling teams, and driving key growth initiatives like AI Voices, new payment methods, and multi-currency support.
 
-- [Klarna](https://www.klarna.com/se): — Senior Software Engineer & Team Lead (2020–2024) — Led multiple teams, scaled new engineering squads, optimized Klarna app performance, and re-architected monorepo workflows.
+- [Klarna](https://www.klarna.com/se): — Lead Engineer (2020–2024) — Led multiple teams, scaled new engineering squads, optimized Klarna app performance, and re-architected monorepo workflows.
 
 - [Flieber](https://www.flieber.com/) — Head of Software Engineering (2019–2020) — Built the engineering org from zero and launched a B2B SaaS platform for marketplace sellers.
 

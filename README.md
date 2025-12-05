@@ -1,10 +1,10 @@
-# Carlos Arantes - Always Coding, Always Learning 💻 📚
+# Hello, I'm Carlos 👋
 
 🚀 **Seasoned Software Engineer** | **Backend, Frontend & Mobile**  
 📌 **Technologies:** Go, Python, TypeScript, React, React Native, iOS  
 🌍 From **Brazil**, based in **Sweden**
 
-I’m a hands-on engineer who loves to learn, experiment, and ship. On my day to day, I lead teams and help scale products used by millions. In my spare time, you’ll always find me tinkering, coding, or exploring new languages or frameworks. For me, engineering is the perfect mix of craft, curiosity, and constant growth.
+I’m a hands-on software engineer who loves to learn, experiment, and ship. On my day to day, I lead teams and help scale products used by millions. In my spare time, you’ll always find me tinkering, coding, or exploring new languages or frameworks. For me, engineering is the perfect mix of craft, curiosity, and constant growth.
 
 <!-- --- -->
 

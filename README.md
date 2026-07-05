@@ -17,7 +17,9 @@ A CLI debugger for PHP that allows developers to debug PHP applications in an in
 <!-- --- -->
 
 ## 💼 **Experience**
-- [Epidemic Sound](http://epidemicsound.com/): — Engineering Manager, Growth (Current) — Leading Payments & Subscriptions, scaling teams, and driving key growth initiatives like AI Voices, new payment methods, and multi-currency support.
+- [Trustly](https://www.trustly.com/): — Senior Engineering Manager, Transfers and Funds — Focused on evolving Trustly’s core payment infrastructure, including next-generation transfer systems and transactional ledger, with an emphasis on scalability, resilience, and financial correctness.
+
+- [Epidemic Sound](http://epidemicsound.com/): — Engineering Manager, Growth — Leading Payments & Subscriptions, scaling teams, and driving key growth initiatives like AI Voices, new payment methods, and multi-currency support.
 
 - [Klarna](https://www.klarna.com/se): — Lead Engineer (2020–2024) — Led multiple teams, optimized Klarna app performance and scalability of the engineering platform.
 
